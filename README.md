@@ -39,7 +39,7 @@ Visit - https://cutt.ly/WbkVWlv
 ---
 
 ## Future Updates
-> User Authentication
+> User Authentication , 
 > Get Location from mobile GPS
 
 [Goto Top](#Table-of-Contents)
