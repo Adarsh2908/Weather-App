@@ -5,7 +5,10 @@
 ### Weather Report Application gives you the details of weather in your area.This application is currently built for Android and Iphone
 ## Table of Contents
 - [Technologies](#Technologies-Used)
-- [Features](##Features)
+- [Features](#Features)
+- [Images](#Images)
+- [Download](#Download)
+- [Future Updates](#Future-Updates)
 
 ---
 ## Technologies Used 
@@ -39,7 +42,7 @@ Visit - https://cutt.ly/WbkVWlv
 > User Authentication
 > Get Location from mobile GPS
 
-.
+[Goto Top](#Table-of-Contents)
 
 
 
