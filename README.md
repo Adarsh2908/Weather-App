@@ -39,8 +39,8 @@ Visit - https://cutt.ly/WbkVWlv
 ---
 
 ## Future Updates
-> - User Authentication , 
-> - Get Location from mobile GPS,
+> - User Authentication 
+> - Get Location from mobile GPS
 > - Week Temprature in Advance
 
 [Go to Top](#Weather-Report-Application)
